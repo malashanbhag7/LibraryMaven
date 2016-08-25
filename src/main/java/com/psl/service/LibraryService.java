@@ -70,7 +70,6 @@ public class LibraryService {
 		//difference=(difference/(1000*60*60*24));
 
 		return (int) (difference*10);*/
-		//Adding comment
 		
 		Date today=new Date();
 		
